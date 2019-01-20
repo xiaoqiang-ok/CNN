@@ -1,3 +1,30 @@
+this is a Visual C++ program developed in visual studio 2012,
+this program execute a convolution neural network on MNIST(hand writing digital data). 
+
+how to run this program：
+1 download mnist data into path CNN2/data/mnist/,
+    mnist file consists of four files:
+	train-images.idx3-ubyte, 
+	train-labels.idx1-ubyte, 
+	t10k-images.idx3-ubyte,  
+	t10k-labels.idx1-ubyte, 
+	you can download them form  
+	http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz 
+	http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+	http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+	http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+	and decompress them.
+2 open CNN2.sln file with visual studio 2012, and run this program
+
+3 press buttons to test their function
+
+
+
+
+
+
+
+
 ================================================================================
 MICROSOFT 基础类库: CNN2 项目概述
 ===============================================================================
