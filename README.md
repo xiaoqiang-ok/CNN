@@ -7,3 +7,6 @@ this project is built via visual-studio-2012 on PC windows.
 
 after start the project you will get the dialog:
 ![Dialog Interface](https://github.com/xiaoqiang-ok/CNN/blob/master/how-does-it-looks-like.gif)
+![Dialog Interface](https://github.com/xiaoqiang-ok/CNN/blob/master/dialog.jpg)
+![Dialog Interface]('https://github.com/xiaoqiang-ok/CNN/blob/master/dialog.jpg')
+![Dialog Interface]("https://github.com/xiaoqiang-ok/CNN/blob/master/dialog.jpg")
